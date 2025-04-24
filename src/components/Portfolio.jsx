@@ -11,12 +11,12 @@ const Portfolio = () => {
     {
       image: '/india.jpg',
        title: "Indian-Team",
-       description: "A food web site built with Html,Css.",
+       description: "A Cricket web site built with Html,Css.",
        link: "https://cricket21.netlify.app/",
     },
     {
       image: '/lomaa.jpg',
-       title: "Project Three",
+       title: "LomaaSkill",
        description: "A modern web site built with Html,Css.",
        link: "https://lomaaskill.com/",
     },
